@@ -1,5 +1,5 @@
 # N27
->Développeurs : Hage Rémi, Deparis Hippolyte, Merlaud Thomas, Chiadmi Yassine
+>Développeurs : Merlaud Thomas, Hage Rémi, Deparis Hippolyte, Chiadmi Yassine
 
 ## Présentation
 ### Qu'est-ce que N27 ?
